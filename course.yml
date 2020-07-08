@@ -1,0 +1,43 @@
+chunks:
+- content: ''
+  flows:
+  - flow_id: flow4
+    next_flow: quiz7
+    pages:
+    - {flow_id: page6, title: "Primer paso de la Venta - La preparaci\xF3n"}
+    - {flow_id: page7, title: "El Proceso de Venta - Preparaci\xF3n II"}
+    - {flow_id: page8, title: El Proceso de Venta - El Contacto}
+    title: "M\xF3dulo I. El Proceso de Venta"
+    title_next_flow: Debes realizar el QUIZ al finalizar
+  - flow_id: flow5
+    next_flow: quiz8
+    pages:
+    - {flow_id: page12, title: Asiste a encuentros de negocios}
+    title: "M\xF3dulo II. Primeros contactos con el cliente"
+    title_next_flow: Debes realizar el QUIZ al finalizar
+  - flow_id: flow6
+    next_flow: null
+    pages:
+    - {flow_id: page13, title: Vinculo con el Cliente - Parte 1}
+    title: "M\xF3dulo III. V\xEDnculo con el Cliente"
+    title_next_flow: ''
+  id: welcome
+  introduction: "<p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\">El curso de\
+    \ T\xE9cnicas de Ventas est\xE1 abierto a toda la\r\ncomunidad. </p><p class=\"\
+    MsoNormal\">Se orienta principalmente a todas aquellas personas que se\r\ndesempe\xF1\
+    en o deseen desempe\xF1arse en funciones relativas a departamentos\r\ncomerciales,\
+    \ ventas y telemarketing de grandes, medianas, peque\xF1as empresas y\r\ncomercios.</p><p\
+    \ class=\"MsoNormal\"><o:p><br></o:p></p><p class=\"MsoNormal\"><b>OBJETIVOS</b><o:p></o:p></p><p\
+    \ class=\"MsoNormal\">&nbsp;<o:p></o:p></p><p class=\"MsoNormal\">Al finalizar\
+    \ el curso el alumno adquiere:</p><p class=\"MsoNormal\"><br></p><ul><li>Facilitar\
+    \ el di\xE1logo entre comprador y vendedor;<o:p></o:p></li><li>Identificar las\
+    \ necesidades de los clientes;<o:p></o:p></li><li>Manejar diversas actitudes y\
+    \ objeciones;<o:p></o:p></li><li>Trazar nuevos objetivos para la pr\xF3xima entrevista\
+    \ de\r\nventas;<o:p></o:p></li><li>Negociar de manera que ambas partes ganen y\
+    \ de esa forma,\r\nconsolidar la relaci\xF3n con los clientes.<o:p></o:p></li><li>\r\
+    \n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n</li><li>Planificar y organizar un departamento\
+    \ de ventas,\r\nimplementando herramientas de gesti\xF3n, organizaci\xF3n y control.</li></ul><p\
+    \ class=\"MsoNormal\"><o:p><br></o:p></p><p class=\"MsoNormal\"><o:p><br></o:p></p><p\
+    \ class=\"MsoNormal\"><o:p><br></o:p></p><p class=\"MsoNormal\"><o:p><br></o:p></p>"
+  rules: []
+  title: "T\xE9cnicas de Ventas para Canal Retail"
