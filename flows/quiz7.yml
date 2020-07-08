@@ -1,0 +1,48 @@
+completion_text: "<p>Este QUIZ deber\xE1 realizarse antes del vencimiento del curso</p>"
+description: |-
+  En este QUIZ evaluaremos los conocimientos aquiridos
+groups:
+- id: intro
+  pages:
+  - content: "<p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\">OBJETIVOS:</p><p\
+      \ class=\"MsoNormal\">Facilitar el di\xE1logo entre comprador y vendedor;</p><p\
+      \ class=\"MsoNormal\"><o:p></o:p></p>\r\n\r\n<p class=\"MsoNormal\">Identificar\
+      \ las necesidades de los clientes;<o:p></o:p></p>\r\n\r\n<p class=\"MsoNormal\"\
+      >Manejar diversas actitudes y objeciones;<o:p></o:p></p><p class=\"MsoNormal\"\
+      ><o:p></o:p></p> "
+    id: welcome
+    title: Proceso de Venta - Primer Paso
+    type: Page
+- id: quiz_start
+  pages:
+  - choices: ["~CORRECT~ 1 d\xEDa antes", media hora, 10 minutos]
+    id: quizquestion9
+    prompt: ''
+    title: "\xBFCu\xE1nto tiempo antes debo prepararme para visitar a un cliente ?"
+    type: ChoiceQuestion
+    value: 10.0
+  - choices: [Ninguno, ~CORRECT~ Redes sociales, Esperar que me llamen, ~CORRECT~
+        Personalmente, "~CORRECT~ Por tel\xE9fono", ~CORRECT~ Por email]
+    credit_mode: exact
+    id: quizquestion10
+    prompt: ''
+    shuffle: false
+    title: "C\xF3mo debo intentar contactar a mis clientes"
+    type: MultipleChoiceQuestion
+    value: 30.0
+  shuffle: false
+rules:
+  access:
+  - permissions: [view, submit_answer, end_session, see_correctness, see_answer_after_submission]
+  grade_aggregation_strategy: use_latest
+  grade_identifier: quiz7
+  grading:
+  - {credit_percent: 20}
+  start:
+  - if_before: 2020-07-31 16:40:19+00:00
+    if_has_fewer_sessions_than: 1
+    if_has_role: [student, ta, instructor]
+    may_list_existing_sessions: true
+    may_start_new_session: true
+  - {may_list_existing_sessions: true, may_start_new_session: false}
+title: Proceso de Venta - Primer Paso
