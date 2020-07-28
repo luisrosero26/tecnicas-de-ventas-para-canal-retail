@@ -37,7 +37,7 @@ rules:
   grade_aggregation_strategy: use_latest
   grade_identifier: quiz7
   grading:
-  - {credit_percent: 20}
+  - {credit_percent: 100}
   start:
   - if_before: 2020-07-31 16:40:19+00:00
     if_has_fewer_sessions_than: 1
