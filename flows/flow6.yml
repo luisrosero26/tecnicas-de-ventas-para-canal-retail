@@ -63,17 +63,262 @@ pages:
   id: intro
   title: INICIO
   type: Page
-- content: "<p class=\"MsoNormal\">6. HAZ UNA BUENA PROSPECCI\xD3N DE CLIENTES<o:p></o:p></p><p\
-    \ class=\"MsoNormal\">Prospectar clientes es elegir anticipadamente a qu\xE9 clientes\r\
-    \nles viene perfecto lo que t\xFA ofreces, saber d\xF3nde est\xE1n, qui\xE9nes\
-    \ son, etc.<o:p></o:p></p><p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p><p class=\"\
-    MsoNormal\">La prospecci\xF3n de clientes la necesitas por muchas razones,\r\n\
-    pero quiz\xE1 las 3 siguientes son las m\xE1s importantes.<o:p></o:p></p><p class=\"\
-    MsoNormal\"><o:p>&nbsp;</o:p></p><p class=\"MsoNormal\">Para evitar la puerta\
-    \ fr\xEDa<o:p></o:p></p><p class=\"MsoNormal\">Para evitar o reducir los costes\
-    \ de desplazamiento<o:p></o:p></p><p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\
-    \n\r\n\r\n\r\n</p><p class=\"MsoNormal\">Para conseguir visitar a m\xE1s clientes\
-    \ en menos tiempo<o:p></o:p></p>"
+- content: "<h4 style=\"font-family: Roboto, Arial, Tahoma, sans-serif; line-height:\
+    \ 25px; color: rgb(22, 25, 34); margin: 0px 0px 15px; font-size: 21px; padding:\
+    \ 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit;\
+    \ font-stretch: inherit; vertical-align: baseline; background-color: rgb(252,\
+    \ 252, 252);\"><span style=\"margin: 0px; padding: 0px; border: 0px; font-style:\
+    \ inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size:\
+    \ inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;\"\
+    >Cuando las empresas traten a cada cliente como si fuera el \xFAnico, habr\xE1\
+    n dado el primer paso hacia el \xE9xito sostenido.</span></h4><p style=\"margin-bottom:\
+    \ 15px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian:\
+    \ inherit; font-stretch: inherit; line-height: inherit; font-family: Roboto, Arial,\
+    \ Tahoma, sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color:\
+    \ rgb(252, 252, 252);\">De la respuesta sobre cu\xE1ndo fue la \xFAltima vez que\
+    \ le agreg\xF3 valor s u producto o servicio, depende el tipo de relaci\xF3n que\
+    \ tiene con sus clientes. El concepto de \u201Cintimidad\u201D con el cliente,\
+    \ se basa en un fuerte compromiso de parte de las compa\xF1\xEDas: ofrecer soluciones\
+    \ espec\xEDficas a las necesidades individuales de cada uno de ellos. Las empresas\
+    \ que logran la intimidad saben que la gente no compra productos o servicios sino\
+    \ beneficios.</p><p style=\"margin-bottom: 15px; padding: 0px; border: 0px; font-variant-numeric:\
+    \ inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height:\
+    \ inherit; font-family: Roboto, Arial, Tahoma, sans-serif; vertical-align: baseline;\
+    \ color: rgb(98, 98, 98); background-color: rgb(252, 252, 252);\"><img src=\"\
+    https://mundocontact.com/wp-content/uploads/2016/08/servicio-satisfaccion-cliente-experiencia.jpg\"\
+    \ alt=\"La era de la Experiencia es crear v\xEDnculos emocionales con el ...\"\
+    ><br></p><p style=\"margin-bottom: 15px; padding: 0px; border: 0px; font-variant-numeric:\
+    \ inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height:\
+    \ inherit; font-family: Roboto, Arial, Tahoma, sans-serif; vertical-align: baseline;\
+    \ color: rgb(98, 98, 98); background-color: rgb(252, 252, 252);\">El trato diferencial\
+    \ puede ayudar a las empresas a seguir de pie en un mercado en el que est\xE1\
+    \ librando una batalla sangrienta. Y, a medida que la exigencia de los clientes\
+    \ crece, deben aprovecharla para mejorar sus productos y servicios.</p><p style=\"\
+    margin-bottom: 15px; padding: 0px; border: 0px; font-variant-numeric: inherit;\
+    \ font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit;\
+    \ font-family: Roboto, Arial, Tahoma, sans-serif; vertical-align: baseline; color:\
+    \ rgb(98, 98, 98); background-color: rgb(252, 252, 252);\"><span style=\"margin:\
+    \ 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit;\
+    \ font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit;\
+    \ font-family: inherit; vertical-align: baseline;\">\u201CIntimidad\u201D con\
+    \ el cliente:</span>&nbsp;a qu\xE9 se refiere en su libro Customer Intimacy y\
+    \ si se trata de lograr la satisfacci\xF3n.</p><p style=\"margin-bottom: 15px;\
+    \ padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian:\
+    \ inherit; font-stretch: inherit; line-height: inherit; font-family: Roboto, Arial,\
+    \ Tahoma, sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color:\
+    \ rgb(252, 252, 252);\"><br></p><p style=\"margin-bottom: 15px; padding: 0px;\
+    \ border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit;\
+    \ font-stretch: inherit; line-height: inherit; font-family: Roboto, Arial, Tahoma,\
+    \ sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color:\
+    \ rgb(252, 252, 252);\"><img src=\"https://1.bp.blogspot.com/-bkwAXdnunmo/VJQ_ODBuzPI/AAAAAAAAAbc/DJAs9MrBnjA/s1600/................png\"\
+    \ alt=\"Marketing 2: FIDELIZACION: LA clave para crear v\xEDnculos ...\" style=\"\
+    width: 50%;\"></p><p style=\"margin-bottom: 15px; padding: 0px; border: 0px; font-variant-numeric:\
+    \ inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height:\
+    \ inherit; font-family: Roboto, Arial, Tahoma, sans-serif; vertical-align: baseline;\
+    \ color: rgb(98, 98, 98); background-color: rgb(252, 252, 252);\"><br></p><p class=\"\
+    MsoNormal\"><o:p></o:p></p><p style=\"margin-bottom: 15px; padding: 0px; border:\
+    \ 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch:\
+    \ inherit; line-height: inherit; font-family: Roboto, Arial, Tahoma, sans-serif;\
+    \ vertical-align: baseline; color: rgb(98, 98, 98); background-color: rgb(252,\
+    \ 252, 252);\">En muchas compa\xF1\xEDas, y durante muchos a\xF1os, hemos hablado\
+    \ de la intimidad con el cliente como si ese concepto fuera la meta final por\
+    \ la cual luchar. Pero ahora advierto que aun cuando un buen n\xFAmero de empresas\
+    \ alcanz\xF3 la satisfacci\xF3n del cliente, no pueden mantenerla durante mucho\
+    \ tiempo. La raz\xF3n es que la intimidad se encuentra un paso m\xE1s adelante.\
+    \ Significa darles a los clientes lo que realmente quieren, que en la mayor\xED\
+    a de los casos es beneficios y resultados de lo que compran. La satisfacci\xF3\
+    n es s\xF3lo un estado mental. Entonces, la intimidad con el cliente siempre tiene\
+    \ como subproducto la satisfacci\xF3n, pero la satisfacci\xF3n no necesariamente\
+    \ genera intimidad.</p><p style=\"margin-bottom: 15px; padding: 0px; border: 0px;\
+    \ font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch:\
+    \ inherit; line-height: inherit; font-family: Roboto, Arial, Tahoma, sans-serif;\
+    \ vertical-align: baseline; color: rgb(98, 98, 98); background-color: rgb(252,\
+    \ 252, 252);\"><br></p><p style=\"margin-bottom: 15px; padding: 0px; border: 0px;\
+    \ font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch:\
+    \ inherit; line-height: inherit; font-family: Roboto, Arial, Tahoma, sans-serif;\
+    \ vertical-align: baseline; color: rgb(98, 98, 98); background-color: rgb(252,\
+    \ 252, 252);\"><span style=\"font-family: inherit; font-size: inherit; margin:\
+    \ 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit;\
+    \ font-weight: 700; font-stretch: inherit; line-height: inherit; vertical-align:\
+    \ baseline;\">C\xF3mo se crea la intimidad:</span>&nbsp;por ejemplo, customizando\
+    \ los productos o servicios.<br></p><p style=\"margin-bottom: 15px; padding: 0px;\
+    \ border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit;\
+    \ font-stretch: inherit; line-height: inherit; font-family: Roboto, Arial, Tahoma,\
+    \ sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color:\
+    \ rgb(252, 252, 252);\">Existen dos grandes diferencias entre las compa\xF1\xED\
+    as convencionales y las que persiguen la intimidad con el cliente. La primera\
+    \ es que estas \xFAltimas orientan toda su actividad hacia un cliente individual,\
+    \ en lugar de apuntar a un target masivo. Mc Donald\xB4s por ejemplo, ofrece productos\
+    \ y servicios iguales a un mercado amplio. En todos y cada uno de sus locales,\
+    \ la hamburguesa es exactamente la misma, independientemente de quien sea consumidor.\
+    \ Pero si McDonald\xB4s fuera una compa\xF1\xEDa dedicada a promover la intimidad\
+    \ con el cliente, podr\xEDa vender hamburguesas m\xE1s peque\xF1as para los chicos\
+    \ por ejemplo, o m\xE1s o menos cocidas, o con sin tomate. En otras palabras,\
+    \ customizar\xEDa el producto de acuerdo con las necesidades de cada cliente.\
+    \ Esto no quiere decir que McDonald\xB4s sea una mala compa\xF1\xEDa, es muy buena.\
+    \ S\xF3lo que no considera las necesidades individuales de cada cliente.</p><p\
+    \ style=\"margin-bottom: 15px; padding: 0px; border: 0px; font-variant-numeric:\
+    \ inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height:\
+    \ inherit; font-family: Roboto, Arial, Tahoma, sans-serif; vertical-align: baseline;\
+    \ color: rgb(98, 98, 98); background-color: rgb(252, 252, 252);\">La segunda diferencia\
+    \ tiene que ver con el tipo de relaci\xF3n. Las empresas que quieren intimar con\
+    \ los clientes luchas por construir una relaci\xF3n duradera, a largo plazo. No\
+    \ piensan en t\xE9rminos de \u201Choy le vendemos un producto y, despu\xE9s de\
+    \ esta transacci\xF3n, Ud. puede volver a comprarlo o no\u201D. Se preocupan,\
+    \ en cambio de establecer un di\xE1logo con sus clientes, tratan de conocerlos\
+    \ mejor y comprender las necesidades, a fin de satisfacerlas de la mejor manera\
+    \ posible. En resumen: por un lado, consideran a los clientes individualmente\
+    \ y se esmeran por responder a las demandas particulares. Por el otro, pretenden\
+    \ que la relaci\xF3n sea duradera, habida cuenta de que los per\xEDodos prolongados\
+    \ permiten mayor comprensi\xF3n y mejores conexiones. Por esas v\xEDas, finalmente,\
+    \ pueden mantener la lealtad de sus clientes a largo plazo.</p><p style=\"margin-bottom:\
+    \ 15px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian:\
+    \ inherit; font-stretch: inherit; line-height: inherit; font-family: Roboto, Arial,\
+    \ Tahoma, sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color:\
+    \ rgb(252, 252, 252);\"><span style=\"margin: 0px; padding: 0px; border: 0px;\
+    \ font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch:\
+    \ inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align:\
+    \ baseline;\">Las compa\xF1\xEDas que persiguen intimidad, necesitan informaci\xF3\
+    n de sus clientes. Y como parecer\xEDa que el grado de intimidad no puede medirse,\
+    \ en consecuencia lo que tienen que evaluar es el nivel de satisfacci\xF3n de\
+    \ los compradores\u2026</span></p><p style=\"margin-bottom: 15px; padding: 0px;\
+    \ border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit;\
+    \ font-stretch: inherit; line-height: inherit; font-family: Roboto, Arial, Tahoma,\
+    \ sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color:\
+    \ rgb(252, 252, 252);\"><span style=\"margin: 0px; padding: 0px; border: 0px;\
+    \ font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch:\
+    \ inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align:\
+    \ baseline;\"><br></span></p><p style=\"margin-bottom: 15px; padding: 0px; border:\
+    \ 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch:\
+    \ inherit; line-height: inherit; font-family: Roboto, Arial, Tahoma, sans-serif;\
+    \ vertical-align: baseline; color: rgb(98, 98, 98); background-color: rgb(252,\
+    \ 252, 252);\">Todo depende del criterio que se utilice y de las pregustas que\
+    \ se formulen. Muchas compa\xF1\xEDas hacen encuestas. Por lo general le preguntan\
+    \ al cliente si est\xE1 satisfecho despu\xE9s de que \xE9ste ha realizado una\
+    \ compra. Si lo est\xE1 en ese momento, la compa\xF1\xEDa obtendr\xE1 un buen\
+    \ puntaje. Pero puede ocurrir que algunas semanas despu\xE9s, aunque siga usando\
+    \ el producto, ese cliente ya no est\xE1 tan contento con \xE9l. De pronto, por\
+    \ alguna raz\xF3n, su nivel de satisfacci\xF3n cae. En consecuencia, si lo que\
+    \ se busca es informaci\xF3n realmente significativa, la satisfacci\xF3n debe\
+    \ medirse en per\xEDodos m\xE1s largos. Porque en alg\xFAn punto ser\xE1 muy alta,\
+    \ y quiz\xE1 en el pr\xF3ximo muy baja. De todos modos, aunque se le pregunte\
+    \ qu\xE9 piensa sobre el producto cada tres o cuatro meses, y responda que est\xE1\
+    \ satisfecho, eso no significa que est\xE1 dispuesto a repetir la compra. Puede\
+    \ haber muchos factores que, en determinado momento, muevan al cliente a decir:\
+    \ \u201CEstoy considerando seriamente la posibilidad de cambiar de producto\u201D\
+    . Imaginemos, por ejemplo, que habitualmente compra un producto comestible en\
+    \ un supermercado. Probablemente est\xE9 muy contento con esa marca, pero un d\xED\
+    a ve el aviso de un nuevo producto, y dice: \u201Cvoy a probarlo\u201D. \xBFEsto\
+    \ quiere decir que no est\xE1 satisfecho con el producto anterior? No, pero siente\
+    \ curiosidad. Quiere saber c\xF3mo es el nuevo producto y quiere probarlo. De\
+    \ manera que si Ud. mide su satisfacci\xF3n con el producto habitual, posiblemente\
+    \ encuentre que sigue alta. Pero, aun as\xED, esa persona quiere probar el nuevo.\
+    \ Entonces, medir la satisfacci\xF3n es una tarea muy ingrata. En muchos casos\
+    \ no refleja verdaderamente lo que los clientes piensan sobre una empresa, lo\
+    \ cual puede conducir a sacar una conclusi\xF3n equivocada.</p><p style=\"margin-bottom:\
+    \ 15px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian:\
+    \ inherit; font-stretch: inherit; line-height: inherit; font-family: Roboto, Arial,\
+    \ Tahoma, sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color:\
+    \ rgb(252, 252, 252);\"><span style=\"margin: 0px; padding: 0px; border: 0px;\
+    \ font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch:\
+    \ inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align:\
+    \ baseline;\">El concepto de intimidad con el cliente se basa en el compromiso\
+    \ de ofrecer soluciones espec\xEDficas a las necesidades de cada uno de ellos.</span></p><p\
+    \ style=\"margin-bottom: 15px; padding: 0px; border: 0px; font-variant-numeric:\
+    \ inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height:\
+    \ inherit; font-family: Roboto, Arial, Tahoma, sans-serif; vertical-align: baseline;\
+    \ color: rgb(98, 98, 98); background-color: rgb(252, 252, 252);\"><span style=\"\
+    margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit;\
+    \ font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit;\
+    \ font-family: inherit; vertical-align: baseline;\"></span></p><p style=\"margin-bottom:\
+    \ 15px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian:\
+    \ inherit; font-stretch: inherit; line-height: inherit; font-family: Roboto, Arial,\
+    \ Tahoma, sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color:\
+    \ rgb(252, 252, 252);\"><span style=\"margin: 0px; padding: 0px; border: 0px;\
+    \ font-style: inherit; font-variant: inherit; font-weight: 700; font-stretch:\
+    \ inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align:\
+    \ baseline;\">Cu\xE1l es entonces el mejor criterio de medici\xF3n\u2026</span></p><p\
+    \ style=\"margin-bottom: 15px; padding: 0px; border: 0px; font-variant-numeric:\
+    \ inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height:\
+    \ inherit; font-family: Roboto, Arial, Tahoma, sans-serif; vertical-align: baseline;\
+    \ color: rgb(98, 98, 98); background-color: rgb(252, 252, 252);\"><span style=\"\
+    margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit;\
+    \ font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit;\
+    \ font-family: inherit; vertical-align: baseline;\"><br></span></p><p style=\"\
+    margin-bottom: 15px; padding: 0px; border: 0px; font-variant-numeric: inherit;\
+    \ font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit;\
+    \ font-family: Roboto, Arial, Tahoma, sans-serif; vertical-align: baseline; color:\
+    \ rgb(98, 98, 98); background-color: rgb(252, 252, 252);\">A m\xED, particularmente,\
+    \ me interesa tratar de medir si estoy cumpliendo con los requisitos del cliente\
+    \ y satisfaciendo las necesidades individuales de cada uno de ellos. En las encuestas,\
+    \ por lo tanto, pregunto sobre una variedad de temas. Por ejemplo: qu\xE9 opinan\
+    \ sobre mis productos, c\xF3mo funcionan, y qu\xE9 resultados obtienen de su uso.\
+    \ De esa manera, las respuestas que obtengo me permiten saber, espec\xEDficamente,\
+    \ que cosas debo mejorar y c\xF3mo puedo diferenciarme. Y lo hago constantemente,\
+    \ para obtener una visi\xF3n m\xE1s amplia de los aspectos que valoran en mi producto.\
+    \ Esta forma de investigar el mercado no exige el env\xEDo de formularios; puede\
+    \ hacerse por tel\xE9fono, o directamente en el local donde la gente realiza las\
+    \ compras. As\xED, cuando se utiliza cada oportunidad y cada interacci\xF3n con\
+    \ los clientes para comprenderlos mejor y sabe lo que piensan de la empresa y\
+    \ de sus productos o servicios, las probabilidades de responder adecuadamente\
+    \ a sus demandas aumentan. Eso es muy distinto a decir: \u201CQuiero medir la\
+    \ satisfacci\xF3n del cliente y le pedir\xE9 a una consultora que me dise\xF1\
+    e una encuesta\u201D. Lo aconsejable es dirigirse a toda la gente de la empresa,\
+    \ y decir: \u201CNecesitamos comprender a todos nuestros clientes. Tenemos que\
+    \ escuchar lo que piensan de nuestros productos, c\xF3mo se sienten con ellos,\
+    \ qu\xE9 beneficios obtienen, qu\xE9 tipo de servicio reciben, c\xF3mo son las\
+    \ experiencias de compra\u201D. Todo ello proporcionar\xE1 una aproximaci\xF3\
+    n real a los clientes, y permitir\xE1 medir lo que efectivamente est\xE1 sucediendo\
+    \ en cada uno de ellos.</p><p style=\"margin-bottom: 15px; padding: 0px; border:\
+    \ 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch:\
+    \ inherit; line-height: inherit; font-family: Roboto, Arial, Tahoma, sans-serif;\
+    \ vertical-align: baseline; color: rgb(98, 98, 98); background-color: rgb(252,\
+    \ 252, 252);\"><span style=\"margin: 0px; padding: 0px; border: 0px; font-style:\
+    \ inherit; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size:\
+    \ inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;\"\
+    >Imaginemos el caso de una empresa que acaba de tomar la decisi\xF3n de orientarse\
+    \ al cliente. \xBFCu\xE1l es el proceso que debe adoptar?</span></p><p style=\"\
+    margin-bottom: 15px; padding: 0px; border: 0px; font-variant-numeric: inherit;\
+    \ font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit;\
+    \ font-family: Roboto, Arial, Tahoma, sans-serif; vertical-align: baseline; color:\
+    \ rgb(98, 98, 98); background-color: rgb(252, 252, 252);\"><span style=\"margin:\
+    \ 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit;\
+    \ font-weight: 700; font-stretch: inherit; font-size: inherit; line-height: inherit;\
+    \ font-family: inherit; vertical-align: baseline;\"></span></p><p style=\"margin-bottom:\
+    \ 15px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian:\
+    \ inherit; font-stretch: inherit; line-height: inherit; font-family: Roboto, Arial,\
+    \ Tahoma, sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color:\
+    \ rgb(252, 252, 252);\">Resulta extremadamente \xFAtil compararse con las grandes\
+    \ y exitosas compa\xF1\xEDas que est\xE1n enfocadas en el cliente. En la mayor\xED\
+    a de los casos son las que brindan m\xE1s y mejor valor a sus clientes: puede\
+    \ ser menor costo, una serie de caracter\xEDsticas que diferencian a su producto,\
+    \ un servicio excelente, o bien una soluci\xF3n total. Tambi\xE9n es fundamental\
+    \ que las compa\xF1\xEDas escuchen lo que el cliente tiene para decirles. Un excelente\
+    \ ejemplo es el de British Airways, que ten\xEDa muy mala reputaci\xF3n en el\
+    \ mercado porque era una empresa que no le prestaba atenci\xF3n a sus clientes.</p><p\
+    \ style=\"margin-bottom: 15px; padding: 0px; border: 0px; font-variant-numeric:\
+    \ inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height:\
+    \ inherit; font-family: Roboto, Arial, Tahoma, sans-serif; vertical-align: baseline;\
+    \ color: rgb(98, 98, 98); background-color: rgb(252, 252, 252);\"><br></p><p style=\"\
+    margin-bottom: 15px; padding: 0px; border: 0px; font-variant-numeric: inherit;\
+    \ font-variant-east-asian: inherit; font-stretch: inherit; line-height: inherit;\
+    \ font-family: Roboto, Arial, Tahoma, sans-serif; vertical-align: baseline; color:\
+    \ rgb(98, 98, 98); background-color: rgb(252, 252, 252);\"><br></p><p class=\"\
+    MsoNormal\">6. HAZ UNA BUENA PROSPECCI\xD3N DE CLIENTES<o:p></o:p></p><p class=\"\
+    MsoNormal\">Prospectar clientes es elegir anticipadamente a qu\xE9 clientes\r\n\
+    les viene perfecto lo que t\xFA ofreces, saber d\xF3nde est\xE1n, qui\xE9nes son,\
+    \ etc.<o:p></o:p></p><p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p><p class=\"MsoNormal\"\
+    >La prospecci\xF3n de clientes la necesitas por muchas razones,\r\npero quiz\xE1\
+    \ las 3 siguientes son las m\xE1s importantes.<br></p><p class=\"MsoNormal\"><o:p></o:p></p><p\
+    \ class=\"MsoNormal\"><o:p>&nbsp;</o:p></p><p class=\"MsoNormal\">Para evitar\
+    \ la puerta fr\xEDa<o:p></o:p></p><p class=\"MsoNormal\">Para evitar o reducir\
+    \ los costes de desplazamiento<o:p></o:p></p><p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\
+    \n\r\n\r\n\r\n\r\n\r\n\r\n</p><p class=\"MsoNormal\">Para conseguir visitar a\
+    \ m\xE1s clientes en menos tiempo</p><p class=\"MsoNormal\"><o:p><br></o:p></p><h4\
+    \ style=\"margin: 0px 0px 15px; padding: 0px; border: 0px; font-variant-numeric:\
+    \ inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size:\
+    \ 21px; line-height: 25px; font-family: Roboto, Arial, Tahoma, sans-serif; vertical-align:\
+    \ baseline; color: rgb(22, 25, 34); background-color: rgb(252, 252, 252);\"><br></h4>"
   id: page13
   title: Vinculo con el Cliente - Parte 1
   type: Page
