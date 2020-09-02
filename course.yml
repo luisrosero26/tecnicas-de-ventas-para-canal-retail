@@ -4,21 +4,26 @@ chunks:
   - flow_id: flow4
     next_flow: quiz7
     pages:
-    - {flow_id: page6, title: "Primer paso de la Venta - La preparaci\xF3n"}
-    - {flow_id: page7, title: "El Proceso de Venta - Preparaci\xF3n II"}
-    - {flow_id: page8, title: El Proceso de Venta - El Contacto}
+    - flow_id: page6
+      title: "Primer paso de la Venta - La preparaci\xF3n"
+    - flow_id: page7
+      title: "El Proceso de Venta - Preparaci\xF3n II"
+    - flow_id: page8
+      title: El Proceso de Venta - El Contacto
     title: "M\xF3dulo I. El Proceso de Venta"
     title_next_flow: Debes realizar el QUIZ al finalizar
   - flow_id: flow5
     next_flow: quiz8
     pages:
-    - {flow_id: page12, title: Asiste a encuentros de negocios}
+    - flow_id: page12
+      title: Asiste a encuentros de negocios
     title: "M\xF3dulo II. Primeros contactos con el cliente"
     title_next_flow: Debes realizar el QUIZ al finalizar
   - flow_id: flow6
     next_flow: null
     pages:
-    - {flow_id: page13, title: Vinculo con el Cliente - Parte 1}
+    - flow_id: page13
+      title: Vinculo con el Cliente - Parte 1
     title: "M\xF3dulo III. V\xEDnculo con el Cliente"
     title_next_flow: ''
   id: welcome
