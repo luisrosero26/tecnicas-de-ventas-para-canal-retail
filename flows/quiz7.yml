@@ -15,14 +15,22 @@ groups:
     type: Page
 - id: quiz_start
   pages:
-  - choices: ["~CORRECT~ 1 d\xEDa antes", media hora, 10 minutos]
+  - choices:
+    - 10 minutos
+    - media hora
+    - "~CORRECT~ 1 d\xEDa antes"
     id: quizquestion9
     prompt: ''
     title: "\xBFCu\xE1nto tiempo antes debo prepararme para visitar a un cliente ?"
     type: ChoiceQuestion
     value: 10.0
-  - choices: [Ninguno, ~CORRECT~ Redes sociales, Esperar que me llamen, ~CORRECT~
-        Personalmente, "~CORRECT~ Por tel\xE9fono", ~CORRECT~ Por email]
+  - choices:
+    - ~CORRECT~ Por email
+    - "~CORRECT~ Por tel\xE9fono"
+    - ~CORRECT~ Personalmente
+    - Esperar que me llamen
+    - ~CORRECT~ Redes sociales
+    - Ninguno
     credit_mode: exact
     id: quizquestion10
     prompt: ''
@@ -33,16 +41,25 @@ groups:
   shuffle: false
 rules:
   access:
-  - permissions: [view, submit_answer, end_session, see_correctness, see_answer_after_submission]
+  - permissions:
+    - view
+    - submit_answer
+    - end_session
+    - see_correctness
+    - see_answer_after_submission
   grade_aggregation_strategy: use_latest
   grade_identifier: quiz7
   grading:
-  - {credit_percent: 100}
+  - credit_percent: 100
   start:
   - if_before: 2020-07-31 16:40:19+00:00
     if_has_fewer_sessions_than: 1
-    if_has_role: [student, ta, instructor]
+    if_has_role:
+    - student
+    - ta
+    - instructor
     may_list_existing_sessions: true
     may_start_new_session: true
-  - {may_list_existing_sessions: true, may_start_new_session: false}
+  - may_list_existing_sessions: true
+    may_start_new_session: false
 title: Proceso de Venta - Primer Paso
