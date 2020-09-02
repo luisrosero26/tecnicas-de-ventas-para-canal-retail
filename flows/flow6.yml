@@ -324,7 +324,11 @@ pages:
   type: Page
 rules:
   access:
-  - if_has_role: [ta, student, instructor]
-    permissions: [view]
+  - if_has_role:
+    - ta
+    - student
+    - instructor
+    permissions:
+    - view
   grade_identifier: null
 title: "M\xF3dulo III. V\xEDnculo con el Cliente"
